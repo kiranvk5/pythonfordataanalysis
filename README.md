@@ -8,3 +8,5 @@ This repo consists of the following
   - Cleaned Data (removed nulls, checked column types)
   - Performed Data Exploration
   - Performed aggregation to create dataframes for investors
+
+    Code for Project 1:amazonsaleproject.py
